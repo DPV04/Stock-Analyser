@@ -4,7 +4,7 @@
 ---
 
 ## 📝 Overview  
-- 📊 **Goal**: Forecast stock prices based on historical data.  
+- 📊 **Objective**: Forecast stock prices based on historical data.  
 - 🔧 **Packages Used**:  
   - **Pandas**: Data manipulation.  
   - **NumPy**: Numerical computations.  
